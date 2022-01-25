@@ -15,7 +15,7 @@ remote_theme           : "sagomoonchi/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en"
 title                    : "사고문치와 알고리듬에 맞춰 춤을"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
