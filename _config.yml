@@ -30,9 +30,9 @@ masthead_title           : "MOONCHI"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               :  "disqus" #"discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : www-hmoon0615-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -105,7 +105,7 @@ author:
   name             : "사고문치"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SAGO**MOONCHI**"
-  #location         : ""
+  #location         : "Jinju, Korea"
   email            :
   links:
     - label: "Email"
