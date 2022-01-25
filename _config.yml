@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "사고문치와 알고리듬에 맞춰 춤을"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "사고문치"
+name                     : "사고문치와 알고리듬에 맞춰 "
 description              : "코딩을 공부하는 사고문치의 블로그입니다."
 url                      : "https://hmoon0615.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
